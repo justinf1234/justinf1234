@@ -71,6 +71,10 @@ A CEGEP computer science student and full-stack programmer with a strong passion
 ---
 
 ### 📊 Stats  
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinf1234&show_icons=true&locale=en" alt="justinf1234" />
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=justinf1234&show_icons=true&locale=en&theme=dark" 
+    alt="justinf1234" 
+  />
 </p>
