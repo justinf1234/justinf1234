@@ -1,13 +1,3 @@
-# 🏄‍♂️ Justin Ferland
-
-**`Student Programmer (Full-Stack/Problem-Solver/Creator)`**
-
-<p align="left">
-A CEGEP computer science student and full-stack programmer with a strong passion for coding and software development. I previously worked as a bartender for a year, which strengthened my teamwork and communication skills. I enjoy challenging problems and treat every project like a puzzle to solve. Outside of tech, I love reading, cooking, going to the gym, practicing MMA, and taking walks in nature. I’m also highly disciplined and committed to continuous improvement.
-</p>
-
----
-
 ### 🚀 Languages & Tools
 
 <p align="left">
@@ -21,6 +11,7 @@ A CEGEP computer science student and full-stack programmer with a strong passion
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
 
   <!-- Web Technologies -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
@@ -46,6 +37,8 @@ A CEGEP computer science student and full-stack programmer with a strong passion
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
 
   <!-- Testing -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="40" height="40" alt="cypress"/>
@@ -66,15 +59,4 @@ A CEGEP computer science student and full-stack programmer with a strong passion
   
   <!-- OS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
----
-
-### 📊 Stats  
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=justinf1234&show_icons=true&locale=en&theme=dark" 
-    alt="justinf1234" 
-  />
 </p>
