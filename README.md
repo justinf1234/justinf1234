@@ -3,7 +3,7 @@
 **`Student Programmer (Full-Stack/Problem-Solver/Creator)`**
 
 <p align="left">
-A CEGEP computer science student and full-stack programmer with a strong passion for coding and software development. I previously worked as a bartender for a year, which strengthened my teamwork and communication skills. I enjoy challenging problems and treat every project like a puzzle to solve. Outside of tech, I love reading, cooking, going to the gym, practicing MMA, and taking walks in nature. I’m also highly disciplined and committed to continuous improvement.
+Software engineering student at ÉTS University, with a DEC in Computer Science and a strong passion for coding and software development. I'm a full-stack programmer who enjoys challenging problems and treats every project like a puzzle to solve. Before university, I worked for a year as a bartender, which strengthened my teamwork and communication skills. Outside of tech, I love reading, cooking, going to the gym, practicing MMA, and taking walks in nature. I'm highly disciplined and committed to continuous improvement.
 </p>
 
 ---
